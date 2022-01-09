@@ -1,7 +1,9 @@
 1. hari senin
+  jam 3-5
 2. hari selasa
+  jam 3-5
 3. hari rabu
 4. hari kamis
 5. hari jumat
 6. hari sabtu
-7. hari minggu
+
