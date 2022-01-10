@@ -1,7 +1,7 @@
 1. hari senin
-    jam 1-8
+    jam 7
 2. hari selasa
-    jam 1-8
+    jam 
 3. hari rabu
 4. hari kamis
 5. hari jumat
